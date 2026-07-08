@@ -40,7 +40,7 @@ The following are intentionally out of scope for now, with reasons documented in
 
 ## Related projects
 
-- [Argus](ARGUS_REPO_URL): the three-camera Insta360 X4 rig this tool was built to support
+- [Argus](https://github.com/rnewbold06/Hera): the three-camera Insta360 X4 rig this tool was built to support
 - The *Inside Out* research project, Department of Geography and Geosciences, Salisbury University
 
 ## Citing
