@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Hera runtime output (never commit extracted frames)
+output/
+frames/
+*.jpg
+*.jpeg
+*.png
+!docs/*.png
+
+# User configs that may contain local paths
+# (rig profiles and scenes are shareable JSON; commit intentionally)
+
+# OS junk
+.DS_Store
+Thumbs.db

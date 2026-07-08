@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use Hera in your research, please cite it as below."
+title: "Hera: 360-degree video to SfM-ready imagery"
+authors:
+  - family-names: "Newbold"
+    given-names: "Rustin C."
+    affiliation: "Department of Geography and Geosciences, Salisbury University"
+version: 2.7.0
+date-released: 2026-07-07
+license: MIT
+repository-code: "HERA_REPO_URL"
+keywords:
+  - photogrammetry
+  - structure-from-motion
+  - 360-degree-video
+  - gaussian-splatting
+  - ffmpeg
+  - colmap
+  - digital-twin
