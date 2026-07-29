@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Hera runtime
+.hera_config.json
+*.hera_scene.json
+*.hera_rig.json
+
+# Capture data - never commit these
+*.mp4
+*.mov
+*.insv
+*.insp
+*.lrv
+output/
+frames/
+w[0-9]_*/
+masks/
+cameras.txt
+
+# Generated tag sheets and plans
+*_tags.pdf
+*_tags.svg
+capture_plan*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

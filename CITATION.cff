@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use Hera in published work, please cite it as below."
+title: "Hera: capture planning and SfM preprocessing for 360 degree reality capture"
+abstract: >-
+  Hera is a single-file, dependency-free Python application for planning and
+  processing 360 degree interior capture. It includes KapturPlan, an
+  interactive capture planner that derives fiducial spacing from AprilTag
+  detection limits; a tag36h11 fiducial sheet generator; equirectangular to
+  cubemap extraction with per-camera orientation; operator and rig mask
+  projection; blur-based frame rejection; and exact COLMAP pinhole intrinsics
+  export.
+type: software
+authors:
+  - family-names: Newbold
+    given-names: Rustin C.
+    affiliation: "Salisbury University / Rusty's Creation Lab (RCL) Services"
+    # orcid: "https://orcid.org/<TODO if you have one>"
+repository-code: "https://github.com/rnewbold06/Hera"
+url: "https://github.com/rnewbold06/Hera"
+license: MIT
+version: 2.12.0
+date-released: "2026-07-28"
+keywords:
+  - photogrammetry
+  - structure-from-motion
+  - 360-degree-video
+  - digital-twin
+  - apriltag
+  - colmap
+  - equirectangular
+  - cubemap
